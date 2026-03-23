@@ -82,12 +82,14 @@ _This turns raw reviewer comments into more usable author-side decision support.
 - Exportable triage summaries
 - Better handling of highly imbalanced comment classes
 
-### Author
+# Author
 
 Mohak Das
-\n GitHub: [MohakDas](https://github.com/MohakDas)
+
+GitHub: [MohakDas](https://github.com/MohakDas)
 
 # License
 
 This project uses the ReAct dataset. Please follow the dataset’s original license and citation requirements before reuse in research or redistribution.
-\n [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+ [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
