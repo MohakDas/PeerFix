@@ -5,8 +5,8 @@ PeerFix is an NLP-based peer-review triage assistant that helps authors analyze 
 Built using the ReAct peer-review dataset, PeerFix compares classical ML baselines with fine-tuned transformer models and provides a simple Streamlit dashboard for interactive use.
 
 # Features
-Predicts whether a reviewer comment is actionable or non-actionable
-Classifies actionable comments into types such as:
+- Predicts whether a reviewer comment is actionable or non-actionable
+- Classifies actionable comments into types such as:
 shortcoming
 suggestion
 question
