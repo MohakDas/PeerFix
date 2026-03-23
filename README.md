@@ -69,24 +69,25 @@ The output is passed through a triage rule layer to produce:
 _This turns raw reviewer comments into more usable author-side decision support._
 
 # Notes
--Trained model checkpoints are not included in this repository due to size.
--To reproduce the results, run the training scripts inside the training/ folder.
--The app expects trained models to be saved under:
-training/actionability_model/final
-training/comment_type_model/final
+- Trained model checkpoints are not included in this repository due to size.
+- To reproduce the results, run the training scripts inside the training/ folder.
+- The app expects trained models to be saved under:
+    - training/actionability_model/final
+    - training/comment_type_model/final
 
 # Future Improvements
--Batch analysis for multiple reviewer comments
--Confidence-aware warnings for uncertain predictions
--Invalid or out-of-domain comment detection
--Exportable triage summaries
--Better handling of highly imbalanced comment classes
+- Batch analysis for multiple reviewer comments
+- Confidence-aware warnings for uncertain predictions
+- Invalid or out-of-domain comment detection
+- Exportable triage summaries
+- Better handling of highly imbalanced comment classes
 
 # Author
 
 Mohak Das
-GitHub: MohakDas
+GitHub: [MohakDas](https://github.com/MohakDas)
 
 # License
 
 This project uses the ReAct dataset. Please follow the dataset’s original license and citation requirements before reuse in research or redistribution.
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
