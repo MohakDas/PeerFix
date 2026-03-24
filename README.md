@@ -39,7 +39,6 @@ Dataset source: [ReAct Dataset](https://github.com/gtmdotme/ReAct)
 # Models Used
 - Classical baselines
 - Logistic Regression for actionability classification
-- Logistic Regression for comment-type classification
 - Linear SVM for comment-type classification
 
 ## Transformer models
